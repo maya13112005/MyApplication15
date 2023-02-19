@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mayasproject</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="new_post">New Post</string>
+    <string name="search">Search</string>
+</resources>
